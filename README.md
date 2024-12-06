@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I am Labish Bardiya.</h2>
+<h2 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />! I am Labish Bardiya.</h2>
 
 ###
 
@@ -43,7 +43,7 @@
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="34" alt="androidstudio logo"  />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="34" alt="ubuntu logo"  />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="34" alt="ubuntu logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="34" alt="arduino logo"  />
   <img width="14" />
@@ -76,8 +76,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h4 align="left">Profile Views</h4>
 
