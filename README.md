@@ -79,10 +79,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/labishbardiya/labishbardiya/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="left">Profile Views</h4>
 
 ###
