@@ -6,13 +6,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=labishbardiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=labishbardiya&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=labishbardiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+
+---
+  
   <img src="https://github-profile-trophy.vercel.app?username=labishbardiya&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=labishbardiya&theme=dracula&area=true&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
-</div>
 
 ---
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=labishbardiya&theme=dracula&area=true&hide_border=true&hide_title=true" height="150" alt="activity-graph graph"  />
+</div>
+
 ###
+
+---
+
+<h4 align="left">Skills</h4>
+<br>
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"  />
 
@@ -64,8 +73,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
 </div>
 
+<br><br>
+
+---
+
+<h4 align="left">Holopin contribution badges</h4>
+<br>
+
+[![An image of @labishbardiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/labishbardiya)](https://holopin.io/@labishbardiya)
+
+---
+
 ###
 
+<h4 align="left">How to Contact Me</h4>
+<br>
 <br clear="both">
 
 <div align="center">
@@ -76,6 +98,8 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+---
 
 ###
 
