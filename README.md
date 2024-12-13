@@ -19,8 +19,25 @@
   </a>
   <a href="https://www.geeksforgeeks.org/user/labishbardiya19" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=2f8d46&logoColor=white&labelColor=&style=plastic" height="35" alt="codechef logo"  />
-  </a><br><br>
-- Currently, I'm exploring the vast field of AI/ML and data science.
+  </a><br>
+- I am keen to leverage my strong passion for learning by actively seeking research, open-source, and industrial internship opportunities, where I can contribute meaningfully while expanding my expertise and professional skill set.
+- My Resume: <a href="https://github.com/user-attachments/files/18122689/Resume.pdf">Resume↗️</a>
+
+<h2><br>
+  
+📩 How to Contact Me
+
+</h2><br>
+
+<div align="center">
+  <a href="https://linkedin.com/in/labishjain" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/labish.s_realm/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
 <h2>
 
 📈 GitHub Stats
@@ -102,21 +119,6 @@
 </h2><br>
 
 [![An image of @labishbardiya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/labishbardiya)](https://holopin.io/@labishbardiya)
-
-<h2><br>
-  
-📩 How to Contact Me
-
-</h2><br>
-
-<div align="center">
-  <a href="https://linkedin.com/in/labishjain" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/labish.s_realm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
-  </a>
-</div>
 
 <h2><br>
   
