@@ -13,7 +13,7 @@
 - I'm a sophomore undergraduate at JK Lakshmipat University studying Computer Science Engineering.
 - Recently, I was a visiting student at IIT Gandhinagar, Gujarat during my 3rd semester.
 - I'm an open source contributor, and I have contributed to the IITGN Resume Generator Website under Hacktoberfest'24: <a href="https://github.com/Kishan-Ved/resume_generator">GitHub Repo↗️</a>
-- I am a competitive Programmer: <br><br>
+- I'm a competitive Programmer: <br><br>
   <a href="https://www.codechef.com/users/labishbardiya" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5b4538&logoColor=white&labelColor=&style=plastic" height="35" alt="codechef logo"  />
   </a>
