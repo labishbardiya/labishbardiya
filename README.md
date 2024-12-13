@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=1000&color=F46A90&center=true&vCenter=true&width=435&lines=Hi!+I+am+Labish+Bardiya."  alt="Typing SVG"/></a><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="62" height="62"/><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=1000&color=F46A90&center=true&vCenter=true&width=435&lines=Hi!+I+am+Labish+Bardiya."  alt="Typing SVG"/></a><br>
 
 </div>
 
 <h2>
 
-🚀 About Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="50" height="50" /> About Me
 
 </h2>
 
@@ -25,7 +25,7 @@
 
 <h2><br>
   
-📩 How to Contact Me
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" alt="Mobile Phone With Arrow" width="50" height="50" /> How to Contact Me
 
 </h2><br>
 
@@ -36,11 +36,13 @@
   <a href="https://www.instagram.com/labish.s_realm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
   </a>
+  <br><br>
+  <h3><b>Let’s connect<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="32" height="32" /> and create something remarkable together! Looking forward to collaborating and exploring exciting possibilities with you<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="38" height="38" />.</b></h3>
 </div>
 
 <h2>
 
-📈 GitHub Stats
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera with Flash" width="42" height="42" /> GitHub Stats
 
 </h2>
 
@@ -60,7 +62,7 @@
 
 <h2>
 
-🎯 Skills
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="50" height="50" /> Skills
 
 </h2><br>
 
@@ -114,7 +116,7 @@
 
 <h2><br>
   
-🎖️ Holopin Contribution Badges
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="62" height="62" /> Holopin Contribution Badges
   
 </h2><br>
 
@@ -122,7 +124,7 @@
 
 <h2><br>
   
-👀 Profile Views
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="38" height="38" /> Profile Views
 
 </h2><br>
 
