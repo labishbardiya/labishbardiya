@@ -52,7 +52,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=labishbardiya&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=labishbardiya&theme=dracula&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="150" height="150" /> [![GitHub Streak](https://streak-stats.demolab.com?user=labishbardiya&theme=dracula&hide_border=true&border_radius=5)](https://git.io/streak-stats) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="150" height="150" />
 
 <img src="https://github-profile-trophy.vercel.app?username=labishbardiya&theme=dracula&no-frame=true&no-bg=true" height="150" alt="trophy graph"  /><br>
 
