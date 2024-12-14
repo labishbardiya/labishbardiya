@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="62" height="62"/><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=1000&color=F46A90&center=true&vCenter=true&width=435&lines=Hi!+I+am+Labish+Bardiya."  alt="Typing SVG"/></a><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="62" height="62"/><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=500&color=F46A90&center=true&vCenter=true&width=435&lines=Hi!+I+am+Labish+Bardiya."  alt="Typing SVG"/></a><br>
 
 </div>
 
