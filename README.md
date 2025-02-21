@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&label=&color=2f8d46&logoColor=white&labelColor=&style=plastic" height="35" alt="codechef logo"  />
   </a><br>
 - I am keen to leverage my strong passion for learning by actively seeking research, open-source, and industrial internship opportunities, where I can contribute meaningfully while expanding my expertise and professional skill set.
-- My Resume: <a href = "[Resume](https://github.com/user-attachments/files/18905248/Labish_Bardiya_CV.pdf)">Resume↗️</a>
+- My Resume: <a href = "https://github.com/user-attachments/files/18905248/Labish_Bardiya_CV.pdf">Resume↗️</a>
 
 <h2><br>
   
