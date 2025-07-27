@@ -37,9 +37,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
   </a>
   <br><br>
-  
-      <style>
-        .libutton {
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=labishbardiya" target="_blank" style=".libutton {
           display: flex;
           flex-direction: column;
           justify-content: center;
@@ -53,9 +51,7 @@
           border-radius: 16px;
           background-color: #0A66C2;
           font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=labishbardiya" target="_blank">Follow on LinkedIn</a>
+        }">Follow on LinkedIn</a>
 <br><br>
   <h3><b>Let’s connect<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="32" height="32" /> and create something remarkable together! Looking forward to collaborating and exploring exciting possibilities with you<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="38" height="38" />.</b></h3>
 </div>
