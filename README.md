@@ -97,7 +97,7 @@
 
 <h2><br>
   
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="62" height="62" /> Holopin Contribution Badges
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" alt="Sports Medal" width="62" height="62" /> Hacktoberfest Contribution Badges
   
 </h2><br>
 
