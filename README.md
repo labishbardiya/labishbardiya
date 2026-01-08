@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Welcome Image -->
+  <!-- Welcome -->
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my GitHub Profile" />
   <br /><br />
 
-  <!-- Waving Hand + Typewriter -->
+  <!-- Greeting -->
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="62" height="62" />
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=500&color=4169E1&center=true&vCenter=true&width=480&lines=Hi,+I'm+Labish+Bardiya;Computer+Science+Engineer;Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=500&color=4169E1&center=true&vCenter=true&width=520&lines=Hi,+I'm+Labish+Bardiya;Computer+Science+Engineer;Open+Source+Contributor;Builder+of+Practical+Systems" />
 
 </div>
 
@@ -16,14 +16,21 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="50" height="50" /> About Me
 </h2>
 
-- Prefinal-year **Computer Science Engineering** student at **JK Lakshmipat University**.
-- Former **Visiting Student at IIT Gandhinagar**, focused on AI, cybersecurity, and computational mathematics.
-- Active **open-source contributor**, including contributions to the **IIT Gandhinagar Resume Generator** during **Hacktoberfest 2024**  
-  🔗 https://github.com/Kishan-Ved/resume_generator
-- Competitive programmer with consistent problem-solving practice.
+- **Computer Science Engineering undergraduate** at **JK Lakshmipat University**, currently in my final academic phase.
+- Former **Visiting Student at IIT Gandhinagar**, where I worked across **AI, cybersecurity, and computational mathematics**.
+- **Open-source contributor** with experience contributing to real production systems, including the  
+  **IIT Gandhinagar Resume Generator** (Hacktoberfest).
+- Builder with hands-on experience in **full-stack development, developer tooling, and system design**.
+- Actively exploring the intersection of **engineering, research, and scalable open-source software**.
 
-**Coding Profiles**
-<br><br>
+🔗 **For a detailed, up-to-date professional timeline**  
+- GitHub: https://github.com/labishbardiya  
+- LinkedIn: https://linkedin.com/in/labishjain  
+
+---
+
+<h3>Competitive Programming & Problem Solving</h3>
+
 <a href="https://www.codechef.com/users/labishbardiya" target="_blank">
   <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5b4538&logoColor=white&style=plastic" height="35"/>
 </a>
@@ -31,14 +38,25 @@
   <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&color=2f8d46&logoColor=white&style=plastic" height="35"/>
 </a>
 
-- Actively seeking **research roles, open-source programs, and industry internships** where I can build production-level systems and publish meaningful work.
-- 📄 **Resume**  
-  https://github.com/user-attachments/files/19402820/LabishBardiya_CV.pdf
+- Regularly practice **DSA and algorithmic problem solving** to strengthen core fundamentals.
+- Focus on correctness, efficiency, and clean reasoning over brute force solutions.
+
+---
+
+<h3>Current Focus (2025–Jan 2026)</h3>
+
+- Contributing to **open-source projects with real users and maintainers**.
+- Preparing for **research-oriented and engineering internships**.
+- Building and refining **production-grade projects** rather than demo apps.
+- Deepening understanding of **systems, tooling, and applied AI workflows**.
+
+📄 **Resume**  
+https://github.com/user-attachments/files/19402820/LabishBardiya_CV.pdf
 
 ---
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="50" height="50" /> Contact & Networking
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="50" height="50" /> Contact & Professional Presence
 </h2>
 
 <div align="center">
@@ -57,13 +75,13 @@
 
   <br><br>
 
-  <b>Open to collaborations, research discussions, and impactful engineering work.</b>
+  <b>Open to open-source collaboration, research discussions, and meaningful engineering work.</b>
 </div>
 
 ---
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="42" height="42" /> GitHub Activity
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="42" height="42" /> GitHub Activity & Signals
 </h2>
 
 <div align="center">
@@ -97,7 +115,7 @@
 ---
 
 <h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" width="62" height="62" /> Hacktoberfest & Badges
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" width="62" height="62" /> Open-Source & Hacktoberfest
 </h2>
 
 [![Holopin](https://holopin.me/labishbardiya)](https://holopin.io/@labishbardiya)
