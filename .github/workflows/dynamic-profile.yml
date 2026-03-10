@@ -36,9 +36,21 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git remote set-head origin main
           git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main || true
+          git config --local push.default current
+          git config --local push.followTags false
 
       - uses: umutphp/github-action-dynamic-profile-page@v3
         with:
           github-username: ${{ github.repository_owner }}
           user-email: labishjain7@gmail.com
           readme-file: README.md
+
+      - name: Push changes if any
+        run: |
+          if git diff --quiet; then
+            echo "No changes to push"
+          else
+            git push origin HEAD:main
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
