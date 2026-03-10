@@ -13,6 +13,9 @@ on:
     - cron: '0 1 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     name: Generate Snake SVG
@@ -20,6 +23,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate light + dark snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -34,4 +40,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
