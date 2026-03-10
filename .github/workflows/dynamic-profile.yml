@@ -22,6 +22,11 @@ jobs:
     name: Update README with Dynamic Commit Activity
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - uses: umutphp/github-action-dynamic-profile-page@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github-username: ${{ github.repository_owner }}
+          user-email: labishjain7@gmail.com
+          readme-file: README.md
