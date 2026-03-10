@@ -1,0 +1,26 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# FILE:   .github/workflows/activity.yml
+# WHAT:   Updates the <!--START_SECTION:activity--> block every 30 minutes
+# TOOL:   jamesgeorge007/github-activity-readme
+# NEEDS:  No extra secrets — uses GITHUB_TOKEN automatically
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: Update README with GitHub Activity
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update Activity Section
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '⚡ Update README with recent GitHub activity'
+          MAX_LINES: 5

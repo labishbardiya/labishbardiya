@@ -9,7 +9,11 @@
 <!--  LINKEDIN BANNER                                                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <a href="https://linkedin.com/in/labishbardiya" target="_blank">
-<img width="1584" height="396" alt="New Banner GitHub" src="https://github.com/user-attachments/assets/b9413c64-575f-48d2-85bf-48dc47696339" />
+  <img
+    src="./assets/banner.png"
+    alt="Labish Bardiya — Founder · Builder · Engineer"
+    width="100%"
+  />
 </a>
 
 <br/>

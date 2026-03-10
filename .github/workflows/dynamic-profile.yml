@@ -1,0 +1,27 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# FILE:   .github/workflows/dynamic-profile.yml
+# WHAT:   Populates <!--RECENT_ACTIVITY:start--> block with recent commits
+#         from all your repos (not just the profile repo)
+# TOOL:   umutphp/github-action-dynamic-profile-page
+# NEEDS:  No extra secrets — uses GITHUB_TOKEN automatically
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: Dynamic Profile Page
+
+on:
+  schedule:
+    # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with Dynamic Commit Activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: umutphp/github-action-dynamic-profile-page@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
