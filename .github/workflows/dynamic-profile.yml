@@ -24,6 +24,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Configure git for action
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git branch master main || true
+          git checkout master || git checkout -b master
 
       - uses: umutphp/github-action-dynamic-profile-page@v3
         with:
