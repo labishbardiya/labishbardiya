@@ -211,6 +211,75 @@ $ git log --oneline --reason-to-collab
 > Auto-updated every 24h
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-139.02%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 312.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 54 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+🌆 Daytime                95 commits          █████████░░░░░░░░░░░░░░░░   34.42 % 
+🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   43.12 % 
+🌙 Night                  35 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   48 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Tuesday                  41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Wednesday                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Thursday                 64 commits          ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Friday                   52 commits          █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
+Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Sunday                   33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   7 repos             ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+HTML                     6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+```
+
+
+
+
+ Last Updated on 10/03/2026 16:21:33 UTC
 <!--END_SECTION:waka-->
 
 <br/>
