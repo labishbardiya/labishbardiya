@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
   <!-- ↓ Replace RESUME_PDF_URL with your hosted PDF link (e.g., raw GitHub URL) -->
-  <a href="RESUME_PDF_URL_PLACEHOLDER" target="_blank">
+  <a href="https://raw.githubusercontent.com/labishbardiya/labishbardiya/main/assets/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
