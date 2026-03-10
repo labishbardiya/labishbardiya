@@ -314,6 +314,7 @@ $ git log --oneline --reason-to-collab
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com/labishbardiya/labishbardiya/pull/1) in [labishbardiya/labishbardiya](https://github.com/labishbardiya/labishbardiya)
 <!--END_SECTION:activity-->
 
 <br/>
