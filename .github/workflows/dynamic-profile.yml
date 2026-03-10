@@ -17,6 +17,9 @@ on:
       - main
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with Dynamic Commit Activity
@@ -31,8 +34,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git branch master main || true
-          git checkout master || git checkout -b master
+          git remote set-head origin main
+          git symbolic-ref refs/remotes/origin/HEAD refs/remotes/origin/main || true
 
       - uses: umutphp/github-action-dynamic-profile-page@v3
         with:
