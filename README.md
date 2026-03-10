@@ -1,129 +1,424 @@
-<div align="center">
+<!--
+████████████████████████████████████████████████████████████████████████████████
+  LABISH BARDIYA — GitHub Profile README
+  github.com/labishbardiya
+████████████████████████████████████████████████████████████████████████████████
+-->
 
-  <!-- Welcome -->
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my GitHub Profile" />
-  <br /><br />
-
-  <!-- Greeting -->
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="62" height="62" />
-  <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=600&size=32&pause=500&color=4169E1&center=true&vCenter=true&width=520&lines=Hi,+I'm+Labish+Bardiya;Computer+Science+Engineer;Open+Source+Contributor;Builder+of+Practical+Systems" />
-
-</div>
-
----
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="50" height="50" /> About Me
-</h2>
-
-- **Computer Science Engineering undergraduate** at **JK Lakshmipat University**, currently in my final academic phase.
-- Former **Visiting Student at IIT Gandhinagar**, where I worked across **AI, cybersecurity, and computational mathematics**.
-- **Open-source contributor** with experience contributing to real production systems, including the  
-  **IIT Gandhinagar Resume Generator** (Hacktoberfest).
-- Builder with hands-on experience in **full-stack development, developer tooling, and system design**.
-- Actively exploring the intersection of **engineering, research, and scalable open-source software**.
-
-🔗 **For a detailed, up-to-date professional timeline**  
-- GitHub: https://github.com/labishbardiya  
-- LinkedIn: https://linkedin.com/in/labishjain  
-
----
-
-<h3>Competitive Programming & Problem Solving</h3>
-
-<a href="https://www.codechef.com/users/labishbardiya" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&color=5b4538&logoColor=white&style=plastic" height="35"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/labishbardiya19" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=geeksforgeeks&color=2f8d46&logoColor=white&style=plastic" height="35"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  LINKEDIN BANNER                                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<a href="https://linkedin.com/in/labishbardiya" target="_blank">
+<img width="1584" height="396" alt="New Banner GitHub" src="https://github.com/user-attachments/assets/b9413c64-575f-48d2-85bf-48dc47696339" />
 </a>
 
-- Regularly practice **DSA and algorithmic problem solving** to strengthen core fundamentals.
-- Focus on correctness, efficiency, and clean reasoning over brute force solutions.
+<br/>
+<br/>
 
----
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  NAME — martonlederer style                                                -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h1 align="center">
+  Hi, I'm Labish Bardiya
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="32px"
+    alt="wave"
+  />
+</h1>
 
-<h3>Current Focus (2025–Jan 2026)</h3>
-
-- Contributing to **open-source projects with real users and maintainers**.
-- Preparing for **research-oriented and engineering internships**.
-- Building and refining **production-grade projects** rather than demo apps.
-- Deepening understanding of **systems, tooling, and applied AI workflows**.
-
-📄 **Resume**  
-https://github.com/user-attachments/files/19402820/LabishBardiya_CV.pdf
-
----
-
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone%20With%20Arrow.webp" width="50" height="50" /> Contact & Professional Presence
-</h2>
-
-<div align="center">
-  <a href="https://linkedin.com/in/labishjain" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=plastic" height="35"/>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  TYPING TAGLINE — DenverCoder1/readme-typing-svg                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=820&lines=Founder+%40+Bruxlix+%7C+Patent-Pending+HealthAI+Startup+%F0%9F%A7%A0;Full+Stack+Engineer+%7C+Python+%C2%B7+TypeScript+%C2%B7+C%2B%2B+%F0%9F%92%BB;Research+Intern+%40+STRIDE+Lab%2C+USC+%7C+Agentic+AI+%F0%9F%94%AC;Building+CureNet+%7C+Decentralized+Health+Records+%F0%9F%8F%A5;Samsung+ISWDP+Fellow+%7C+ISRO+Startup+Challenge+Selected+%F0%9F%9B%B0%EF%B8%8F;CS+%40+JKLU+%7C+Visiting+Scholar+%40+IIT+Gandhinagar+%F0%9F%8E%93;shipping+code+%26+filing+patents+%E2%9A%A1"
+      alt="Typing SVG"
+    />
   </a>
-  <a href="https://www.instagram.com/labish.s_realm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=plastic" height="35"/>
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  SOCIAL ICONS — DenverCoder1 style + shields.io                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<p align="center" target="_blank">
+  <a href="https://linkedin.com/in/labishbardiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn />
+  </a>&nbsp;
+  <a href="https://x.com/labishbardiya" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>&nbsp;
+  <a href="https://dev.to/labishbardiya" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>&nbsp;
+  <a href="https://substack.com/@labishbardiya1" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+  </a>&nbsp;
+  <a href="https://labishbardiya.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://instagram.com/labish.bardiya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>&nbsp;
+  <!-- ↓ Replace RESUME_PDF_URL with your hosted PDF link (e.g., raw GitHub URL) -->
+  <a href="RESUME_PDF_URL_PLACEHOLDER" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4B0082?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
+</p>
 
-  <br><br>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=labishbardiya&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
 
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=labishbardiya" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  TERMINAL BIO — hacker / geek aesthetic                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+```bash
+$ whoami
+  Labish Bardiya
+  ├─ CS undergrad @ JKLU · Visiting Scholar @ IIT Gandhinagar (CGPA 8.63)
+  ├─ Founder  →  Bruxlix   [patent-pending ML wearable · sleep bruxism detection]
+  ├─ Research →  STRIDE Lab, AI Institute, Univ. of South Carolina (Agentic AI + MARL)
+  └─ Building →  CureNet   [decentralized health records · Indian healthcare]
+
+$ ./status.sh
+  🔨  Shipping    →  Bruxlix MVP  +  CureNet v1
+  🔬  Researching →  Agentic AI · Multi-Agent RL · Healthcare Interoperability
+  🏆  Won         →  1st @ SDG Innovation Challenge 2026 (MUJ) · ₹10K
+                     Special Jury Award @ InventX'25, IIT Gandhinagar · ₹50K
+  🛰   Selected   →  ISRO Immersion Startup Challenge 2025  (16 / nationwide)
+                     Samsung ISWDP Fellow · Cohort 5  (from 3,000+ applicants)
+  📊  Ranked      →  #1 in Practice School I · JKLU Dean's List ×3 · CGPA 8.63
+
+$ git log --oneline --reason-to-collab
+  → research  ·  open source  ·  products that make a dent
+  → labishjain7@gmail.com
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  CURRENTLY BUILDING                                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🔨 Currently Building</h2>
+
+| Project | What | Stack | Status |
+|---------|------|-------|--------|
+| 🧠 **[Bruxlix](https://github.com/labishbardiya)** | Patent-pending ML wearable for at-home sleep bruxism detection. Replacing ₹1.6L lab tests with an affordable device | `Python` `TensorFlow` `C++` `Hardware` | 🚀 Active |
+| 🏥 **[CureNet](https://github.com/labishbardiya)** | Decentralized health record SaaS solving EMR fragmentation across Indian hospitals | `Next.js` `PostgreSQL` `Prisma` `Node.js` | 🔨 Building |
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  TECH STACK                                                                -->
+<!--  Logos + Linear Progress + Star Rating:                                   -->
+<!--  harish-sethuraman/readme-components (STRICTLY used)                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>⚡ Tech Stack</h2>
+
+**Languages**
+
+<p>
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false&animation=spin" height="55" alt="Python" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="C++" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="JavaScript" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="TypeScript" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="HTML5" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="CSS3" /></a>
+</p>
+
+**Frameworks & Libraries**
+
+<p>
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false&animation=spin" height="55" alt="React" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Next.js" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Node.js" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=express&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Express" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Tailwind" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="TensorFlow" /></a>
+</p>
+
+**Databases & Tools**
+
+<p>
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="MongoDB" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="PostgreSQL" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Docker" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Git" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=figma&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Figma" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Linux" /></a>&nbsp;
+  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="VS Code" /></a>
+</p>
+
+**Proficiency**
+
+[![Python](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=90)](https://github.com/harish-sethuraman/readme-components)
+[![TypeScript](https://readme-components.vercel.app/api?component=linearprogress&skill=typescript&value=85)](https://github.com/harish-sethuraman/readme-components)
+[![C++](https://readme-components.vercel.app/api?component=linearprogress&skill=c%2B%2B&value=80)](https://github.com/harish-sethuraman/readme-components)
+[![React / Next.js](https://readme-components.vercel.app/api?component=linearprogress&skill=react&value=85)](https://github.com/harish-sethuraman/readme-components)
+[![Machine Learning](https://readme-components.vercel.app/api?component=linearprogress&skill=machine-learning&value=80)](https://github.com/harish-sethuraman/readme-components)
+[![System Design](https://readme-components.vercel.app/api?component=linearprogress&skill=system-design&value=78)](https://github.com/harish-sethuraman/readme-components)
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  EXPERIENCE — harish-sethuraman/readme-components                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🧪 Where I've Worked</h2>
+
+<p>
+  <a href="https://github.com/labishbardiya">
+    <img
+      src="https://readme-components.vercel.app/api?component=experience&company=bruxlix&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)"
+      alt="Bruxlix - Founder"
+    />
+  </a>&nbsp;
+  <a href="https://sc.edu/about/offices_and_divisions/research/about/centers_and_institutes/ai_institute">
+    <img
+      src="https://readme-components.vercel.app/api?component=experience&company=university-of-south-carolina&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)"
+      alt="STRIDE Lab, USC - Research Intern"
+    />
   </a>
+</p>
 
-  <br><br>
-
-  <b>Open to open-source collaboration, research discussions, and meaningful engineering work.</b>
-</div>
+<br/>
 
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" width="42" height="42" /> GitHub Activity & Signals
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  WAKATIME STATS — anmol098/waka-readme-stats                              -->
+<!--  Auto-updated daily via GitHub Actions (see .github/workflows/waka.yml)   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>⏱ WakaTime Coding Activity</h2>
 
-<div align="center">
+> Auto-updated every 24h
 
-<img src="https://github-readme-stats.vercel.app/api?username=labishbardiya&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="150"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=labishbardiya&layout=compact&langs_count=5&theme=dracula&hide_border=true" height="150"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=labishbardiya&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-<img src="https://github-profile-trophy.vercel.app?username=labishbardiya&theme=dracula&no-frame=true&no-bg=true" height="150"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=labishbardiya&theme=dracula&area=true&hide_border=true" height="150"/>
-
-</div>
+<br/>
 
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="50" height="50" /> Technical Skills
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB STATS — anmol098 3-panel style                                    -->
+<!--  Theme colors: tokyonight · purple primary · blue accent                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>📊 GitHub Stats</h2>
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=labishbardiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&text_color=C9D1D9"
+    alt="Labish's GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=labishbardiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9"
+    alt="Top Languages"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=labishbardiya&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED&sideLabels=C9D1D9"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,nodejs,tailwind,bootstrap,sass,wordpress,androidstudio,linux,git,docker,arduino,mysql,figma,canva,matlab"/>
+<br/>
 
-</div>
+<!-- GITHUB TROPHY — ryo-ma/github-profile-trophy -->
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=labishbardiya&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<br/>
 
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sports%20Medal.webp" width="62" height="62" /> Open-Source & Hacktoberfest
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  FEATURED PROJECTS                                                         -->
+<!--  Pinned repo cards — anuraghazra/github-readme-stats                      -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🚀 Featured Projects</h2>
+
+<p align="center">
+  <!-- ↓ Replace repo names with actual repo slugs once repos are public -->
+  <a href="https://github.com/labishbardiya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=bruxlix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="Bruxlix" />
+  </a>
+  <a href="https://github.com/labishbardiya">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=curenet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="CureNet" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/labishbardiya/ride_sharing_project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=ride_sharing_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="Ride Sharing Platform" />
+  </a>
+  <a href="https://github.com/labishbardiya/Mini-Version-Control-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=Mini-Version-Control-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="Mini VCS" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  COMPETITIVE PROGRAMMING                                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🎯 Competitive Programming</h2>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/labishbardiya">
+    <img src="https://img.shields.io/badge/CodeChef-1501_(2★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/labishbardiya/">
+    <img src="https://img.shields.io/badge/LeetCode-1507-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/labishbardiya19/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-1656_(3★)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  GITHUB ACTIVITY                                                           -->
+<!--  jamesgeorge007/github-activity-readme + umutphp dynamic profile          -->
+<!--  Auto-updated via GitHub Actions                                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>⚡ Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!-- Dynamic profile commits — umutphp/github-action-dynamic-profile-page -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  ACHIEVEMENTS                                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🏆 Achievements & Recognition</h2>
+
+<table>
+  <tr>
+    <td>🥇</td>
+    <td><b>1st Place + ₹10,000</b> — SDG Innovation Challenge 2026, Manipal University Jaipur · Bruxlix recognized for SDG Goal 3 impact</td>
+  </tr>
+  <tr>
+    <td>⚖️</td>
+    <td><b>Special Jury Award + ₹50,000</b> — InventX'25, IIT Gandhinagar · Top 30 Nationwide · 6-week residential innovation program</td>
+  </tr>
+  <tr>
+    <td>🛰️</td>
+    <td><b>Selected</b> — ISRO Immersion Startup Challenge 2025 · GeoBharat: AI geospatial disaster response · 16 innovators nationwide</td>
+  </tr>
+  <tr>
+    <td>💻</td>
+    <td><b>Samsung ISWDP Fellow · Cohort 5</b> — SSIR + IISc + Synopsys · Selected from 3,000+ applicants</td>
+  </tr>
+  <tr>
+    <td>🏥</td>
+    <td><b>Incubated @ CU-TBI</b> — AI × MedTech Startup Hackathon & Cohort 2025, Chandigarh University</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><b>Semester Exchange</b> — IIT Gandhinagar · AI, Cybersecurity, Computational Mathematics</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><b>Rank #1</b> — Practice School I, B.Tech 2023 Batch, JKLU · Grade A · 10.0 GP (absolute evaluation)</td>
+  </tr>
+  <tr>
+    <td>🌟</td>
+    <td><b>100% Merit Scholarship + Dean's List ×3</b> — JKLU (2023, 2024, 2025)</td>
+  </tr>
+  <tr>
+    <td>🔬</td>
+    <td><b>Research Intern</b> — STRIDE Lab, AI Institute, University of South Carolina · Supervised by Dr. Utkarshani Jaimini · Agentic AI + MARL</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Website Developer</b> — HackJKLU v4.0 · Led team of 10 · 90 Lighthouse Score · 30% load time reduction</td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  HOLOPIN BADGES — Hacktoberfest                                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🏅 Holopin Badges</h2>
 
 [![Holopin](https://holopin.me/labishbardiya)](https://holopin.io/@labishbardiya)
 
+<br/>
+
 ---
 
-<h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="38" height="38" /> Profile Views
-</h2>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  CONTRIBUTION SNAKE — guilyx / Platane/snk                                -->
+<!--  Generated by GitHub Actions (see .github/workflows/snake.yml)            -->
+<!--  Needs an `output` branch — see SETUP.md                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<h2>🐍 Contribution Graph</h2>
 
-[![Views](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/labishbardiya)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/labishbardiya/labishbardiya/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/labishbardiya/labishbardiya/blob/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Contribution Snake"
+    src="https://github.com/labishbardiya/labishbardiya/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--  FOOTER                                                                    -->
+<!--  Fancy font via readme-typing-svg — DenverCoder1                          -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<br/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=4000&pause=2000&color=7C3AED&center=true&vCenter=true&width=700&lines=//+if+you%27re+reading+this%2C+let%27s+build+something.;%E2%86%92+labishjain7%40gmail.com+%C2%B7+labishbardiya.com"
+    alt="Footer"
+  />
+</p>
