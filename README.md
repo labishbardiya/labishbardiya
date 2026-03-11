@@ -133,46 +133,63 @@ $ git log --oneline --reason-to-collab
 
 **Languages**
 
-<p>
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false&animation=spin" height="55" alt="Python" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="C++" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="JavaScript" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="TypeScript" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=html5&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="HTML5" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=css3&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="CSS3" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css&theme=dark&perline=8" alt="Languages" />
 </p>
 
 **Frameworks & Libraries**
 
-<p>
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false&animation=spin" height="55" alt="React" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Next.js" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Node.js" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=express&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Express" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Tailwind" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=tensorflow&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="TensorFlow" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,tensorflow,prisma,sklearn&theme=dark&perline=8" alt="Frameworks" />
 </p>
 
 **Databases & Tools**
 
-<p>
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=mongodb&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="MongoDB" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=postgresql&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="PostgreSQL" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=docker&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Docker" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Git" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=figma&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Figma" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=linux&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="Linux" /></a>&nbsp;
-  <a href="https://readme-components.vercel.app"><img src="https://readme-components.vercel.app/api?component=logo&logo=visualstudiocode&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)&text=false" height="55" alt="VS Code" /></a>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,docker,git,figma,linux,vscode,matlab&theme=dark&perline=8" alt="Tools" />
 </p>
 
 **Proficiency**
 
-[![Python](https://readme-components.vercel.app/api?component=linearprogress&skill=python&value=90)](https://github.com/harish-sethuraman/readme-components)
-[![TypeScript](https://readme-components.vercel.app/api?component=linearprogress&skill=typescript&value=85)](https://github.com/harish-sethuraman/readme-components)
-[![C++](https://readme-components.vercel.app/api?component=linearprogress&skill=c%2B%2B&value=80)](https://github.com/harish-sethuraman/readme-components)
-[![React / Next.js](https://readme-components.vercel.app/api?component=linearprogress&skill=react&value=85)](https://github.com/harish-sethuraman/readme-components)
-[![Machine Learning](https://readme-components.vercel.app/api?component=linearprogress&skill=machine-learning&value=80)](https://github.com/harish-sethuraman/readme-components)
-[![System Design](https://readme-components.vercel.app/api?component=linearprogress&skill=system-design&value=78)](https://github.com/harish-sethuraman/readme-components)
+<table>
+  <tr>
+    <td><b>Python</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████████░░-90%25-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>TypeScript</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/█████████████████░░░░-85%25-3B82F6?style=flat-square&labelColor=0D1117&color=3B82F6" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>C / C++</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████░░░░░-80%25-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>React / Next.js</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/█████████████████░░░░-85%25-3B82F6?style=flat-square&labelColor=0D1117&color=3B82F6" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/████████████████░░░░░-80%25-7C3AED?style=flat-square&labelColor=0D1117&color=7C3AED" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>System Design</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/███████████████░░░░░░-78%25-3B82F6?style=flat-square&labelColor=0D1117&color=3B82F6" />
+    </td>
+  </tr>
+</table>
+<br/>
 
 <br/>
 
@@ -183,20 +200,48 @@ $ git log --oneline --reason-to-collab
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <h2>🧪 Where I've Worked</h2>
 
-<p>
-  <a href="https://github.com/labishbardiya">
-    <img
-      src="https://readme-components.vercel.app/api?component=experience&company=bruxlix&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)"
-      alt="Bruxlix - Founder"
-    />
-  </a>&nbsp;
-  <a href="https://sc.edu/about/offices_and_divisions/research/about/centers_and_institutes/ai_institute">
-    <img
-      src="https://readme-components.vercel.app/api?component=experience&company=university-of-south-carolina&fill=linear-gradient(62deg,%20%238EC5FC%200%25,%20%23E0C3FC%20100%25)"
-      alt="STRIDE Lab, USC - Research Intern"
-    />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60px" align="center">🧠</td>
+    <td>
+      <b>Founder & CEO</b> —
+      <a href="https://github.com/labishbardiya">Bruxlix</a>
+      <img src="https://img.shields.io/badge/Nov_2025_→_Present-7C3AED?style=flat-square&labelColor=0D1117" />
+      <br/>
+      <sub>Patent-pending ML wearable for sleep bruxism detection · Won 1st @ SDG Innovation Challenge + Special Jury Award @ InventX'25 IIT Gandhinagar</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="60px" align="center">🔬</td>
+    <td>
+      <b>Research Intern</b> —
+      <a href="https://sc.edu/about/offices_and_divisions/research/about/centers_and_institutes/ai_institute">STRIDE Lab, AI Institute, University of South Carolina</a>
+      <img src="https://img.shields.io/badge/Jul_2025_→_Sep_2025-3B82F6?style=flat-square&labelColor=0D1117" />
+      <br/>
+      <sub>Agentic AI · Multi-Agent Reinforcement Learning · Supervised by Dr. Utkarshani Jaimini</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="60px" align="center">🏗️</td>
+    <td>
+      <b>Inventor — Residential Program</b> —
+      <a href="https://iitgn.ac.in">InventX'25, IIT Gandhinagar</a>
+      <img src="https://img.shields.io/badge/May_2025_→_Jul_2025-7C3AED?style=flat-square&labelColor=0D1117" />
+      <br/>
+      <sub>6-week intensive · IP drafting · Hardware prototyping · Filed provisional patents in India & US</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="60px" align="center">🌐</td>
+    <td>
+      <b>Website Developer</b> —
+      <a href="https://www.hackjklu.com/">HackJKLU v4.0</a>
+      <img src="https://img.shields.io/badge/Dec_2024_→_Mar_2025-3B82F6?style=flat-square&labelColor=0D1117" />
+      <br/>
+      <sub>Led team of 10 · Three.js + React Three Fiber · 90 Lighthouse Score · 30% load time reduction</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -293,7 +338,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=labishbardiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&text_color=C9D1D9"
+    src="https://github-readme-stats.vercel.app/api?username=labishbardiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&text_color=C9D1D9"
     alt="Labish's GitHub Stats"
   />
   <img
@@ -302,24 +347,23 @@ Dart                     1 repo              █░░░░░░░░░░�
     alt="Top Languages"
   />
 </p>
-
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=labishbardiya&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED&sideLabels=C9D1D9"
+    src="https://streak-stats.demolab.com/?user=labishbardiya&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=3B82F6&currStreakLabel=7C3AED&sideLabels=C9D1D9"
     alt="GitHub Streak"
   />
 </p>
-
 <br/>
-
-<!-- GITHUB TROPHY — ryo-ma/github-profile-trophy -->
+<!-- GITHUB TROPHY — shields.io stat badges (reliable alternative) -->
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=labishbardiya&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4"
-    alt="GitHub Trophies"
-  />
+  <img src="https://img.shields.io/badge/Commits_(2024)-117-7C3AED?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull_Requests-18-3B82F6?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars_Earned-4-7C3AED?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repos-Public-3B82F6?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-6_days-7C3AED?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" />
 </p>
 
+<br/>
 <br/>
 
 ---
@@ -330,23 +374,47 @@ Dart                     1 repo              █░░░░░░░░░░�
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <h2>🚀 Featured Projects</h2>
 
-<p align="center">
-  <!-- ↓ Replace repo names with actual repo slugs once repos are public -->
-  <a href="https://github.com/labishbardiya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=bruxlix&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="Bruxlix" />
-  </a>
-  <a href="https://github.com/labishbardiya">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=curenet&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="CureNet" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/labishbardiya/ride_sharing_project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=ride_sharing_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="Ride Sharing Platform" />
-  </a>
-  <a href="https://github.com/labishbardiya/Mini-Version-Control-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=Mini-Version-Control-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6" alt="Mini VCS" />
-  </a>
-</p>
+<!-- Bruxlix + CureNet: repos not yet public — custom cards -->
+<table>
+  <tr>
+    <!-- ── ROW 1 ── -->
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/labishbardiya">🧠 Bruxlix</a></h3>
+      <img src="https://img.shields.io/badge/Status-Active-7C3AED?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Patent-Pending-3B82F6?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Lang-Python%20·%20C++-0D1117?style=flat-square&labelColor=0D1117&color=555" />
+      <br/><br/>
+      Patent-pending ML wearable for at-home sleep bruxism detection. Replacing ₹1.6L lab tests with an affordable device.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,cpp&theme=dark" height="26" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/labishbardiya">🏥 CureNet</a></h3>
+      <img src="https://img.shields.io/badge/Status-Building-7C3AED?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Type-SaaS-3B82F6?style=flat-square&labelColor=0D1117" />
+      <img src="https://img.shields.io/badge/Lang-TypeScript-0D1117?style=flat-square&labelColor=0D1117&color=555" />
+      <br/><br/>
+      Decentralized health record SaaS solving EMR fragmentation across Indian hospitals. Full patient data privacy.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,postgres,prisma,nodejs&theme=dark" height="26" />
+    </td>
+  </tr>
+  <tr>
+    <!-- ── ROW 2 — live pin cards, update in real time ── -->
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/labishbardiya/ride_sharing_project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=ride_sharing_project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&description_lines_count=2" />
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/labishbardiya/Mini-Version-Control-System">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=labishbardiya&repo=Mini-Version-Control-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=3B82F6&description_lines_count=2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <br/>
 
