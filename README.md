@@ -48,7 +48,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center" target="_blank">
   <a href="https://linkedin.com/in/labishbardiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@LabishBardiya" target="_blank">
+    <img src ="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>&nbsp;
   <a href="https://x.com/labishbardiya" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
