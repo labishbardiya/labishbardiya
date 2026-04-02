@@ -59,7 +59,7 @@
   <a href="https://dev.to/labishbardiya" target="_blank">
     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>&nbsp;
-  <a href="https://substack.com/@labishbardiya1" target="_blank">
+  <a href="https://substack.com/@labishbardiya7" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
   </a>&nbsp;
   <a href="https://labishbardiya.com" target="_blank">
