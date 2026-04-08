@@ -454,7 +454,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/labishbardiya/labishbardiya/pull/1) in [labishbardiya/labishbardiya](https://github.com/labishbardiya/labishbardiya)
+1. 🎉 Merged PR [#8](https://github.com/labishbardiya/CureNet/pull/8) in [labishbardiya/CureNet](https://github.com/labishbardiya/CureNet)
 <!--END_SECTION:activity-->
 
 <br/>
