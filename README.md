@@ -454,7 +454,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Tusharparihar05/VidyaBot-AI-Powered-Concept-Learning-Portal/pull/2) in [Tusharparihar05/VidyaBot-AI-Powered-Concept-Learning-Portal](https://github.com/Tusharparihar05/VidyaBot-AI-Powered-Concept-Learning-Portal)
+1. 🎉 Merged PR [#7](https://github.com/Tusharparihar05/VidyaBot-AI-Powered-Concept-Learning-Portal/pull/7) in [Tusharparihar05/VidyaBot-AI-Powered-Concept-Learning-Portal](https://github.com/Tusharparihar05/VidyaBot-AI-Powered-Concept-Learning-Portal)
 <!--END_SECTION:activity-->
 
 <br/>
