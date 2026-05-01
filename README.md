@@ -454,7 +454,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/labishbardiya/CureNet/pull/12) in [labishbardiya/CureNet](https://github.com/labishbardiya/CureNet)
+1. 🎉 Merged PR [#1](https://github.com/labishbardiya/curenet-demo/pull/1) in [labishbardiya/curenet-demo](https://github.com/labishbardiya/curenet-demo)
 <!--END_SECTION:activity-->
 
 <br/>
