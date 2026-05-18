@@ -259,8 +259,6 @@ $ git log --oneline --reason-to-collab
 > Auto-updated every 24h
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -275,45 +273,6 @@ $ git log --oneline --reason-to-collab
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                117 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-🌆 Daytime                165 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌃 Evening                199 commits         █████████░░░░░░░░░░░░░░░░   37.83 % 
-🌙 Night                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Tuesday                  60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Wednesday                65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-Thursday                 105 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Friday                   99 commits          █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Saturday                 57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Sunday                   59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -327,7 +286,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 02:47:57 UTC
+ Last Updated on 18/05/2026 02:57:46 UTC
 <!--END_SECTION:waka-->
 
 <br/>
