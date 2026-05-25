@@ -454,7 +454,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CureNet AI v1.0.0 — Gemma 4 Hackathon Submission](https://github.com/labishbardiya/CureNet-AI/releases/tag/v1.0.0) in [labishbardiya/CureNet-AI](https://github.com/labishbardiya/CureNet-AI)
+1. 🚀 Published release [CureNet AI v1.0.0 — Gemma 4 Hackathon Submission](https://github.com/labishbardiya/CureNet/releases/tag/v1.0.0) in [labishbardiya/CureNet](https://github.com/labishbardiya/CureNet)
 <!--END_SECTION:activity-->
 
 <br/>
