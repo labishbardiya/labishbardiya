@@ -259,13 +259,15 @@ $ git log --oneline --reason-to-collab
 > Auto-updated every 24h
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 391.7 kB Used in GitHub's Storage 
+> 📦 391.9 kB Used in GitHub's Storage 
  > 
-> 🏆 203 Contributions in the Year 2026
+> 🏆 210 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -273,6 +275,45 @@ $ git log --oneline --reason-to-collab
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                131 commits         ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+🌆 Daytime                166 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌃 Evening                219 commits         ██████████░░░░░░░░░░░░░░░   39.04 % 
+🌙 Night                  45 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Wednesday                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Thursday                 108 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Friday                   116 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
+Saturday                 58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Sunday                   64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -286,7 +327,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 02:54:04 UTC
+ Last Updated on 30/05/2026 02:47:21 UTC
 <!--END_SECTION:waka-->
 
 <br/>
