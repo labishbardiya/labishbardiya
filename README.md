@@ -454,7 +454,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [CureNet v2.0 - Edge Intelligence](https://github.com/labishbardiya/CureNet/releases/tag/v2.0.0) in [labishbardiya/CureNet](https://github.com/labishbardiya/CureNet)
+1. 🚀 Published release [CureNet v2.0 — ABDM Health Intelligence Platform](https://github.com/labishbardiya/CureNet/releases/tag/v2.0.0) in [labishbardiya/CureNet](https://github.com/labishbardiya/CureNet)
 <!--END_SECTION:activity-->
 
 <br/>
