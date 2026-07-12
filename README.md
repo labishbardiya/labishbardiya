@@ -454,7 +454,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/manishprasad9156/ecosphere-esg-platform/pull/2#issuecomment-4950476524) in [manishprasad9156/ecosphere-esg-platform](https://github.com/manishprasad9156/ecosphere-esg-platform)
+1. 🎉 Merged PR [#5](https://github.com/manishprasad9156/ecosphere-esg-platform/pull/5) in [manishprasad9156/ecosphere-esg-platform](https://github.com/manishprasad9156/ecosphere-esg-platform)
 <!--END_SECTION:activity-->
 
 <br/>
