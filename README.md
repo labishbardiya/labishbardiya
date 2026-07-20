@@ -454,7 +454,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/manishprasad9156/ecosphere-esg-platform/pull/8) in [manishprasad9156/ecosphere-esg-platform](https://github.com/manishprasad9156/ecosphere-esg-platform)
+1. ❌ Closed PR [#3](https://github.com/labishbardiya/LeverageAI/pull/3) in [labishbardiya/LeverageAI](https://github.com/labishbardiya/LeverageAI)
 <!--END_SECTION:activity-->
 
 <br/>
