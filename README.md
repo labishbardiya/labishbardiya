@@ -458,7 +458,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/labishbardiya/LeverageAI/pull/3) in [labishbardiya/LeverageAI](https://github.com/labishbardiya/LeverageAI)
+1. ❌ Closed PR [#1](https://github.com/labishbardiya/portfolio/pull/1) in [labishbardiya/portfolio](https://github.com/labishbardiya/portfolio)
 <!--END_SECTION:activity-->
 
 <br/>
