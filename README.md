@@ -259,11 +259,13 @@ $ git log --oneline --reason-to-collab
 > Auto-updated every 24h
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.49%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 514.8 kB Used in GitHub's Storage 
+> 📦 514.9 kB Used in GitHub's Storage 
  > 
 > 🏆 423 Contributions in the Year 2026
  > 
@@ -273,6 +275,51 @@ $ git log --oneline --reason-to-collab
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                218 commits         ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌆 Daytime                258 commits         ████████░░░░░░░░░░░░░░░░░   33.29 % 
+🌃 Evening                243 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
+🌙 Night                  56 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Tuesday                  78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+Wednesday                90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Thursday                 143 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Friday                   130 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Saturday                 80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Sunday                   163 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -286,7 +333,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:29:52 UTC
+ Last Updated on 09/08/2026 01:23:12 UTC
 <!--END_SECTION:waka-->
 
 <br/>
