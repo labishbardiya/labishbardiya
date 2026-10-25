@@ -460,7 +460,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24671](https://github.com/php/php-src/pull/24671) in [php/php-src](https://github.com/php/php-src)
+1. 🗣 Commented on [#5392](https://github.com/firecrawl/firecrawl/pull/5392#issuecomment-6398987431) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
 <!--END_SECTION:activity-->
 
 <br/>
