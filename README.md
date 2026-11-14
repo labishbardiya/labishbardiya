@@ -460,7 +460,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/labishbardiya/mySociety/pull/1) in [labishbardiya/mySociety](https://github.com/labishbardiya/mySociety)
+1. 🎉 Merged PR [#1](https://github.com/labishbardiya/aapno-gaon/pull/1) in [labishbardiya/aapno-gaon](https://github.com/labishbardiya/aapno-gaon)
 <!--END_SECTION:activity-->
 
 <br/>
