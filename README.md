@@ -460,7 +460,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4071](https://github.com/affaan-m/ECC/issues/4071#issuecomment-7058853171) in [affaan-m/ECC](https://github.com/affaan-m/ECC)
+1. 💪 Opened PR [#128](https://github.com/sarvamai/sarvam-mcp/pull/128) in [sarvamai/sarvam-mcp](https://github.com/sarvamai/sarvam-mcp)
 <!--END_SECTION:activity-->
 
 <br/>
