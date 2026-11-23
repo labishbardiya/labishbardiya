@@ -460,7 +460,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/sarvamai/sarvam-mcp/pull/128) in [sarvamai/sarvam-mcp](https://github.com/sarvamai/sarvam-mcp)
+1. 🗣 Commented on [#3156](https://github.com/mcp-use/mcp-use/issues/3156#issuecomment-7108681709) in [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)
 <!--END_SECTION:activity-->
 
 <br/>
