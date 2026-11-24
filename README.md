@@ -460,7 +460,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 <h2>⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3156](https://github.com/mcp-use/mcp-use/issues/3156#issuecomment-7108681709) in [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use)
+1. 🗣 Commented on [#13529](https://github.com/pydantic/pydantic-ai/issues/13529#issuecomment-7123306852) in [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)
 <!--END_SECTION:activity-->
 
 <br/>
